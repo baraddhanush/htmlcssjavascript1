@@ -28,10 +28,15 @@ margin-bottom: 30px;
 }
 .sidebyside {
     display: flex;
-
 }
 #myimgportfolio{
     width: 200px;
     border-radius: 20px;
     margin-right: 10px;
+}
+body{
+    background-color: darkgray;
+    color: darkred;
+    font-family: cursive;
+    font-size: 20px;
 }
